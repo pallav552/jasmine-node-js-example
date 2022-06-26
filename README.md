@@ -4,7 +4,7 @@ This is an example project for Jasmine tests written in JavaScript and running o
 Run tests by simply running the `npm test` command from the project root directory.
 
 ## Running locally
-
+## test
 Run the following commands to setup the repository locally.
 
 ```bash
