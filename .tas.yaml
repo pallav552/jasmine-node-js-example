@@ -8,7 +8,8 @@ postMerge:
     - "spec/**/*.js"
 preRun: 
   command: 
-    - npm ci    
+    - npm ci  
+smartRun: true
 postRun:
   command: 
     - echo 'Done Testing'
